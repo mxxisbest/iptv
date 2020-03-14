@@ -1,10 +1,5 @@
 #EXTM3U url-tvg="http://tv.sason.xyz/epg"
-#EXTINF:-1 tvg-id="14" tvg-logo="http://tv.sason.xyz/logo/cctv13.png" group-title="0.说明",[gn] ver.2020.02.28v4
-http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000204603.m3u8
-#EXTINF:-1 tvg-id="106" tvg-logo="http://tv.sason.xyz/logo/cctv4k.png" group-title="0.说明",(带▲号限区域)
-http://60.255.149.248/tslive/c214_scc_20190618_pr3jsp04_original_r10/c214_scc_20190618_pr3jsp04_original_r10.m3u8&
-#EXTINF:-1 tvg-id="106" tvg-logo="http://tv.sason.xyz/logo/cctv4k.png" group-title="0.说明",TG频道 t.me/tvsason
-http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000266303.m3u8
+
 #EXTINF:-1 tvg-id="1" tvg-logo="http://tv.sason.xyz/logo/cctv1.png" group-title="A.央视",CCTV-1 综合 FHD
 http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000210103.m3u8
 #EXTINF:-1 tvg-id="2" tvg-logo="http://tv.sason.xyz/logo/cctv2.png" group-title="A.央视",CCTV-2 财经 FHD
@@ -18,7 +13,9 @@ http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000205103.m3u
 #EXTINF:-1 tvg-id="6" tvg-logo="http://tv.sason.xyz/logo/cctv5p.png" group-title="A.央视",CCTV-5+ 体育赛事 FHD
 http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000204503.m3u8
 #EXTINF:-1 tvg-id="7" tvg-logo="http://tv.sason.xyz/logo/cctv6.png" group-title="A.央视",CCTV-6 电影 SD
-http://ivi.bupt.edu.cn/hls/cctv6hd.m3u8
+http://123.57.21.10:7007/http://ivi.bupt.edu.cn/hls/cctv6.m3u8
+#EXTINF:-1 tvg-id="7" tvg-logo="http://tv.sason.xyz/logo/cctv6.png" group-title="A.央视",CCTV-6 电影 HD
+http://123.57.21.10:7007/http://ivi.bupt.edu.cn/hls/cctv6hd.m3u8
 #EXTINF:-1 tvg-id="8" tvg-logo="http://tv.sason.xyz/logo/cctv7.png" group-title="A.央视",CCTV-7 国防军事 FHD
 http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000510003.m3u8
 #EXTINF:-1 tvg-id="9" tvg-logo="http://tv.sason.xyz/logo/cctv8.png" group-title="A.央视",CCTV-8 电视剧 FHD
